@@ -38,3 +38,6 @@
 .contact:hover{
     background-color: #aba5a3;
 }
+.contact:active{
+    background-color: #625d5c;
+}
